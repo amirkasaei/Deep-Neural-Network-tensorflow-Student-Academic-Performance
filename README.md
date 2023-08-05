@@ -9,15 +9,15 @@
    Other information related to this data can be obtained in the relevant link.
 
 ### the project has 3 main parts:
-  1) Neural network implementation :
-    -  Building the Models using [Tensorflow](https://wwwtensorflow.org) library
-    - Fully connected layers are used only
+  1) Neural network implementation:
+     - Building the Models using [Tensorflow](https://wwwtensorflow.org) library
+     - Fully connected layers are used only
     
   3) Training the Implemented Model:
-    - In this part, the implemented algorithm should be trained on the training data
+     - In this part, the implemented algorithm should be trained on the training data
     
-  4) Evaluation of the Trained Model:
-    -  After tarining step, the accuracy and loss should be computed to evaluate the performance of the model
+  5) Evaluation of the Trained Model:
+     - After tarining step, the accuracy and loss should be computed to evaluate the performance of the model
     
 
 
